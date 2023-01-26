@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "R Markdown files to create the lecture slides and PDFs are available in https://github.com/Mayooran1987/MC4010."
+  },
+  {
+    "objectID": "exercise.html",
+    "href": "exercise.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MC4010 - Discrete Mathematics",
+    "section": "",
+    "text": "Welcome to Discrete Mathematics.\nThis course will mostly be taught face to face, using lectures; we will update you if any changes occur. All course materials are delivered online (you can access them via the team or this web page). Don’t hesitate to contact us if you have any questions about this course’s teaching and learning format. Dr P. Kathirgamanathan will teach the first three weeks’ lectures, and then the remaining lectures will be conducted by Mr T. Mayooran.\nDiscrete Mathematics is a course for you to learn about common discrete mathematical ideas used in engineering. You don’t need a strong mathematical background to succeed in this course. The course syllabus and other details are given below. This course is intended for students capable of and interested in progressing through the concepts of discrete mathematics in more depth and at an accelerated rate.\nWe hope you enjoy taking this course as much as we have enjoyed putting it together. We are keen to get feedback from you on things you like as well as anything you don’t like. The approach to understanding discrete mathematics is no different from any other subject. Plan ahead, and work steadily and you can achieve maximum success for your effort.\nWe wish you well in your studying.\n\n\n\n\nThis course covers functions, relations and sets, Basic logic, proof techniques, basic counting and discrete probability. Also we will be introduced R programming language depends on time availability.\n\n\n\nBy the end of the course, the student should be able to understand the fundamental mathematical; concepts and terminology, analyse recursive definitions, describe different types of discrete structures, apply techniques for construing mathematical proofs, illustrated by discrete mathematics examples, identify basics of discrete probability and number theory and its applications.\n\n\n\nDiscrete mathematics and its applications / Kenneth H. Rosen. — 7th ed. ISBN 0–07–338309–0\n\n\n\nThe final letter grade for this course will be determined by each method of assessment weighted as follows:\n\nIn course assessments (40%)\n\nAssignment (10%)\nMid semester assessment (30%)\n\nEnd of course examination (60%)\n\n\n\n\nAbsence from lectures and/or tutorials shall not exceed \\(20\\%\\). Students exceeding the \\(20\\%\\) limit without an accepted medical or emergency excuse are not permitted to take part in the final examination."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n30-01-2023,\n01-02-2023,\n02-02-2023\nWeek 1\nSet theory\nLect 1\nDr P. Kathirgamanathan\n\n\n06-02-2023\n08-02-2023\n09-02-2023\nWeek 2\nRelations\nLect 2\nDr P. Kathirgamanathan\n\n\n13-02-2023\n15-02-2023\n16-02-2023\nWeek 3\nFunctions\nLect 3\nDr P. Kathirgamanathan\n\n\n20-02-2023\n22-02-2023\n23-02-2023\nWeek 4\n\n\nDr P. Kathirgamanathan\n\n\n\nWeek 5\n\n\nMr T. Mayooran\n\n\n\nWeek 6\n\n\nMr T. Mayooran\n\n\n\nWeek 7\n\n\nMr T. Mayooran\n\n\n\nWeek 8\n\n\nMr T. Mayooran\n\n\n\nWeek 9\n\n\nMr T. Mayooran\n\n\n\nWeek 10\n\n\nMr T. Mayooran\n\n\n\nWeek 11\n\n\nMr T. Mayooran\n\n\n\nWeek12\n\n\nMr T. Mayooran\n\n\n\nWeek 13\n\n\nMr T. Mayooran"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email or make a time to meet with us using email id /office location which is on the first floor of Admin building:\n\n\n\nDr P. Kathirgamanathan (pkathir@eng.jfn.ac.lk)\nMr T. Mayooran (mayooran@eng.jfn.ac.lk)\nMiss S. Thawsika (thawsika@eng.jfn.ac.lk)\n\n\n\n\n\nName 1\nName 2"
+  }
+]
