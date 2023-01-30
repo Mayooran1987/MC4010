@@ -14,24 +14,59 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
     "title": "MC4010 - Discrete Mathematics",
+    "section": "Course Overview:",
+    "text": "Course Overview:\nThis course covers functions, relations and sets, Basic logic, proof techniques, basic counting and discrete probability. Also we will be introduced R programming language depends on time availability."
+  },
+  {
+    "objectID": "index.html#expected-outcomes",
+    "href": "index.html#expected-outcomes",
+    "title": "MC4010 - Discrete Mathematics",
+    "section": "Expected outcomes:",
+    "text": "Expected outcomes:\nBy the end of the course, the student should be able to understand the fundamental mathematical; concepts and terminology, analyse recursive definitions, describe different types of discrete structures, apply techniques for constructing mathematical proofs, illustrated by discrete mathematics examples, identify basics of discrete probability and number theory and its applications."
+  },
+  {
+    "objectID": "index.html#texts",
+    "href": "index.html#texts",
+    "title": "MC4010 - Discrete Mathematics",
+    "section": "Texts:",
+    "text": "Texts:\nDiscrete mathematics and its applications / Kenneth H. Rosen. — 7th ed. ISBN 0–07–338309–0"
+  },
+  {
+    "objectID": "index.html#evaluation",
+    "href": "index.html#evaluation",
+    "title": "MC4010 - Discrete Mathematics",
+    "section": "Evaluation:",
+    "text": "Evaluation:\nThe final letter grade for this course will be determined by each method of assessment weighted as follows:\n\nIn course assessments (50%)\n\nAssignment (20%)\nMid semester assessment (30%)\n\nEnd of course examination (50%)"
+  },
+  {
+    "objectID": "index.html#attendance-policy",
+    "href": "index.html#attendance-policy",
+    "title": "MC4010 - Discrete Mathematics",
+    "section": "Attendance Policy:",
+    "text": "Attendance Policy:\nAbsence from lectures and/or tutorials shall not exceed \\(20\\%\\). Students exceeding the \\(20\\%\\) limit without an accepted medical or emergency excuse are not permitted to take part in the final examination."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "MC4010",
     "section": "",
-    "text": "Welcome to Discrete Mathematics.\nThis course will mostly be taught face to face, using lectures; we will update you if any changes occur. All course materials are delivered online (you can access them via the team or this web page). Don’t hesitate to contact us if you have any questions about this course’s teaching and learning format. Dr P. Kathirgamanathan will teach the first three weeks’ lectures, and then the remaining lectures will be conducted by Mr T. Mayooran.\nDiscrete Mathematics is a course for you to learn about common discrete mathematical ideas used in engineering. You don’t need a strong mathematical background to succeed in this course. The course syllabus and other details are given below. This course is intended for students capable of and interested in progressing through the concepts of discrete mathematics in more depth and at an accelerated rate.\nWe hope you enjoy taking this course as much as we have enjoyed putting it together. We are keen to get feedback from you on things you like as well as anything you don’t like. The approach to understanding discrete mathematics is no different from any other subject. Plan ahead, and work steadily and you can achieve maximum success for your effort.\nWe wish you well in your studying.\n\n\n\n\nThis course covers functions, relations and sets, Basic logic, proof techniques, basic counting and discrete probability. Also we will be introduced R programming language depends on time availability.\n\n\n\nBy the end of the course, the student should be able to understand the fundamental mathematical; concepts and terminology, analyse recursive definitions, describe different types of discrete structures, apply techniques for construing mathematical proofs, illustrated by discrete mathematics examples, identify basics of discrete probability and number theory and its applications.\n\n\n\nDiscrete mathematics and its applications / Kenneth H. Rosen. — 7th ed. ISBN 0–07–338309–0\n\n\n\nThe final letter grade for this course will be determined by each method of assessment weighted as follows:\n\nIn course assessments (40%)\n\nAssignment (10%)\nMid semester assessment (30%)\n\nEnd of course examination (60%)\n\n\n\n\nAbsence from lectures and/or tutorials shall not exceed \\(20\\%\\). Students exceeding the \\(20\\%\\) limit without an accepted medical or emergency excuse are not permitted to take part in the final examination."
+    "text": "Assignment 01\nAssignment 02\nAssignment 03\nAssignment 04\nMid semester examination\nEnd of course examination"
   },
   {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Lecture notes",
     "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n30-01-2023,\n01-02-2023,\n02-02-2023\nWeek 1\nSet theory\nLect 1\nDr P. Kathirgamanathan\n\n\n06-02-2023\n08-02-2023\n09-02-2023\nWeek 2\nRelations\nLect 2\nDr P. Kathirgamanathan\n\n\n13-02-2023\n15-02-2023\n16-02-2023\nWeek 3\nFunctions\nLect 3\nDr P. Kathirgamanathan\n\n\n20-02-2023\n22-02-2023\n23-02-2023\nWeek 4\n\n\nDr P. Kathirgamanathan\n\n\n\nWeek 5\n\n\nMr T. Mayooran\n\n\n\nWeek 6\n\n\nMr T. Mayooran\n\n\n\nWeek 7\n\n\nMr T. Mayooran\n\n\n\nWeek 8\n\n\nMr T. Mayooran\n\n\n\nWeek 9\n\n\nMr T. Mayooran\n\n\n\nWeek 10\n\n\nMr T. Mayooran\n\n\n\nWeek 11\n\n\nMr T. Mayooran\n\n\n\nWeek12\n\n\nMr T. Mayooran\n\n\n\nWeek 13\n\n\nMr T. Mayooran"
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n30-01-2023\n01-02-2023\n02-02-2023\nWeek 1\nSet theory\nLect 1\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n06-02-2023\n08-02-2023\n09-02-2023\nWeek 2\nRelations\nLect 2\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n13-02-2023\n15-02-2023\n16-02-2023\nWeek 3\nFunctions\nLect 3\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n20-02-2023\n22-02-2023\n23-02-2023\nWeek 4\nTutorial / Assignment 1\n\nTutors / Mr T. Mayooran\n\n\n27-02-2023\n01-03-2023\n02-03-2023\nWeek 5\n\n\nMr T. Mayooran\n\n\n06-03-2023\n08-03-2023\n09-02-2023\nWeek 6\n\n\nMr T. Mayooran\n\n\n13-03-2023\n15-03-2023\n16-03-2023\nWeek 7\nTutorial / Assignment 2\n\nTutors / Mr T. Mayooran\n\n\n20-03-2023\n22-03-2023\n23-03-2023\nWeek 8\nMid semester\n\n\n\n\n27-03-2023\n29-03-2023\n30-03-2023\nWeek 9\n\n\nMr T. Mayooran\n\n\n03-04-2023\n05-04-2023\n06-04-2023\nWeek 10\n\n\nMr T. Mayooran / Miss S. Thawsika\n\n\n10-04-2023\n12-04-2023\n13-04-2023\nWeek 11\nNew Year Vacation\n\n\n\n\n17-04-2023\n19-04-2023\n20-04-2023\nWeek12\nTutorial / Assignment 3\n\nTutors / Mr T. Mayooran\n\n\n24-04-2023\n26-04-2023\n27-04-2023\nWeek 13\n\n\nMr T. Mayooran\n\n\n01-05-2023\n03-05-2023\n04-05-2023\nWeek 14\n\n\nMr T. Mayooran\n\n\n08-05-2023\n10-05-2023\n11-05-2023\nWeek 15\nTutorial / Assignment 4\n\nTutors / Mr T. Mayooran\n\n\n15-05-2023\n17-05-2023\n18-05-2023\nWeek 16\nRevisions\n\nMr T. Mayooran / Miss S. Thawsika"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching team",
     "section": "",
-    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nDr P. Kathirgamanathan (pkathir@eng.jfn.ac.lk)\nMr T. Mayooran (mayooran@eng.jfn.ac.lk)\nMiss S. Thawsika (thawsika@eng.jfn.ac.lk)\n\n\n\n\n\nName 1\nName 2"
+    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nDr P. Kathirgamanathan (📧)\nMr T. Mayooran (📧)\nMiss S. Thawsika (📧)\n\n\n\n\n\nMiss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)"
   }
 ]
