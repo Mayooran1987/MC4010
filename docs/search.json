@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder (will be available soon). You can access this folder via your university login credentials if you want to download those."
+    "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder . You can access this folder via your university login credentials if you want to download those."
   },
   {
     "objectID": "exercise.html",
@@ -60,7 +60,7 @@
     "href": "notes.html",
     "title": "Lecture notes",
     "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n30-01-23\n01-02-23\n02-02-23\nWeek 1\nSet theory\nLect 1\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n06-02-23\n08-02-23\n09-02-23\nWeek 2\nRelations\nLect 2\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n13-02-23\n15-02-23\n16-02-23\nWeek 3\nFunctions\nLect 3\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n20-02-23\n22-02-23\n23-02-23\nWeek 4\nTutorial / Assignment 1\n\nTutors / Miss S. Thawsika\n\n\n27-02-23\n01-03-23\n02-03-23\nWeek 5\nLogic and Proofs\n\nMr T. Mayooran\n\n\n06-03-23\n08-03-23\n09-03-23\nWeek 6\nLogic and Proofs\n\nMr T. Mayooran\n\n\n13-03-23\n15-03-23\n16-03-23\nWeek 7\nTutorial/ Assignment 2\n\nTutors / Mr T. Mayooran\n\n\n20-03-23\n22-03-23\n23-03-23\nWeek 8\nMid semester / Induction and Recursion\n\nTutors / Mr T. Mayooran\n\n\n27-03-23\n29-03-23\n30-03-23\nWeek 9\nInduction and Recursion\n\nMr T. Mayooran\n\n\n03-04-23\n05-04-23\n06-04-23\nWeek 10\nCounting\n\nMr T. Mayooran / Miss S. Thawsika\n\n\n10-04-23\n12-04-23\n13-04-23\nWeek 11\nNew Year Vacation\n\n\n\n\n17-04-23\n19-04-23\n20-04-23\nWeek12\nTutorial / Assignment 3\n\nTutors / Mr T. Mayooran\n\n\n24-04-23\n26-04-23\n27-04-23\nWeek 13\nDiscrete Probability\n\nMr T. Mayooran\n\n\n01-05-23\n03-05-23\n04-05-23\nWeek 14\nDiscrete Probability\n\nMr T. Mayooran\n\n\n08-05-23\n10-05-23\n11-05-23\nWeek 15\nTutorial / Assignment 4\n\nTutors / Mr T. Mayooran\n\n\n15-05-23\n17-05-23\n18-05-23\nWeek 16\nRevisions\n\nMr T. Mayooran / Miss S. Thawsika"
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n30-01-23\n01-02-23\n02-02-23\nWeek 1\nSet theory\nLect 1\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n06-02-23\n08-02-23\n09-02-23\nWeek 2\nRelations\nLect 2\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n13-02-23\n15-02-23\n16-02-23\nWeek 3\nFunctions\nLect 3\nDr P. Kathirgamanathan / Miss S. Thawsika\n\n\n20-02-23\n22-02-23\n23-02-23\nWeek 4\nTutorial / Assignment 1\n\nTutors / Miss S. Thawsika\n\n\n27-02-23\n01-03-23\n02-03-23\nWeek 5\nLogic and Proofs\n\nMr T. Mayooran\n\n\n06-03-23\n08-03-23\n09-03-23\nWeek 6\nLogic and Proofs\n\nMr T. Mayooran\n\n\n13-03-23\n15-03-23\n16-03-23\nWeek 7\nTutorial/ Assignment 2\n\nTutors / Mr T. Mayooran\n\n\n20-03-23\n22-03-23\n23-03-23\nWeek 8\nMid semester\n\nTutors / Mr T. Mayooran\n\n\n27-03-23\n29-03-23\n30-03-23\nWeek 9\nInduction and Recursion\n\nMr T. Mayooran\n\n\n03-04-23\n05-04-23\n06-04-23\nWeek 10\nCounting\n\nMr T. Mayooran / Miss S. Thawsika\n\n\n10-04-23\n12-04-23\n13-04-23\nWeek 11\nNew Year Vacation\n\n\n\n\n17-04-23\n19-04-23\n20-04-23\nWeek12\nTutorial / Assignment 3\n\nTutors / Mr T. Mayooran\n\n\n24-04-23\n26-04-23\n27-04-23\nWeek 13\nDiscrete Probability\n\nMr T. Mayooran\n\n\n01-05-23\n03-05-23\n04-05-23\nWeek 14\nDiscrete Probability\n\nMr T. Mayooran\n\n\n08-05-23\n10-05-23\n11-05-23\nWeek 15\nTutorial / Assignment 4\n\nTutors / Mr T. Mayooran\n\n\n15-05-23\n17-05-23\n18-05-23\nWeek 16\nRevisions\n\nMr T. Mayooran / Miss S. Thawsika"
   },
   {
     "objectID": "teaching.html",
@@ -74,6 +74,6 @@
     "href": "tutorials.html",
     "title": "Tutorials",
     "section": "",
-    "text": "Tutorial 01:"
+    "text": "Tutorial 01:\n\n    \n        \n    \n\nTo download this tutorial in pdf format, please click here.📑\n\nTutorial 02:"
   }
 ]
